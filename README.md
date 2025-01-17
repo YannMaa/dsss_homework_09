@@ -1,5 +1,4 @@
-# dsss_homework_09
-Telegram Chatbot
+# Homework 09 - Telegram Chatbot
 I do use TinyLlama in this project. Follow link: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 
 Run the bot_script.py to check the Telegram interaction. (Task 1)
